@@ -68,4 +68,4 @@ Passionate technologist eager for opportunities to facilitate personal and profe
 **Degree:** Associates in Information Systems **Emphasis:** Network Security
 
 **A+**, **Network+, MCSE: Server 2016, CCNA: Routing & Switching, MS Certified Azure Administrator**
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="2359ecce-d1b9-4af3-9802-9b34aa4661f6" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
